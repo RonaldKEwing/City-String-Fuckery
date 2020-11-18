@@ -12,4 +12,16 @@ letter and Uppercase, Lowercase)
 * Java.util.scanner 
 * Hackintosh 
 * using system.out.println command 
-* String modification
+* String Modification
+
+#### Example Usage
+```
+ronald@Ronalds-Mac-Pro CSCI1010A6 % java CityThing.java
+
+What is the city name?
+Nashville
+This string is 9 characters long!
+Uppercase: NASHVILLE
+Lowercase: nashville
+First Char: N
+```
